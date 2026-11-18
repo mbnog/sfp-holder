@@ -10,6 +10,6 @@ For CC license compliance, you may credit any of:
 * Adam Thompson (who paid for the work), or
 * MBNog (the designated steward of these files), or
 * Edward van Zyl (who turned Adam's concept into reality), or
-* (D3D.ca)[https://D3D.ca] (Ed's company, that did the printing, shipping, billing, etc.).
+* [D3D.ca](https://D3D.ca) (Ed's company, that did the printing, shipping, billing, etc.).
 
 The preferred attribution is [D3D.ca], as seen/shown on the design.
