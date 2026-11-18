@@ -1,6 +1,6 @@
 # CC-BY 4.0
 
-* Reference: [https://creativecommons.org/licenses/by/4.0/]
+* Normative Source for the following text text: [https://creativecommons.org/licenses/by/4.0/]
 
 ## Deed:
 
